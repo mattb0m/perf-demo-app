@@ -1,7 +1,7 @@
 # perf-demo-app
-This app exposes a dummy test API at: /api/latency/<LATENCY>
+This app exposes a dummy test API at: /api/latency/[LATENCY]
 
-Where <LATENCY> is one of:
+Where [LATENCY] is one of:
 * zero (0 sec)
 * low (1-2 sec)
 * medium (2-4 sec)
